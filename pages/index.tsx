@@ -158,6 +158,8 @@ const Home: NextPage = () => {
                         />
 
                     </Flex>
+
+                    <Text>contact: realcronoscrocrow@gmail.com</Text>
                 </Flex>
 
             )}
